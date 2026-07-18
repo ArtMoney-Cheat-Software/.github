@@ -1,6 +1,7 @@
 # ArtMoney Cheat Software - Memory Editing Utility for Supported PC Games
 
-![ArtMoney memory editor workspace with value scanning](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSruQfH3xdx-MlugEH01i-H_z8fmK5nudga5WKOUoEZPP9W4i95-Il8qoc&s=10)
+[![Get ArtMoney](https://img.shields.io/badge/Get-ArtMoney-blue?style=flat-square&logo=windows&logoColor=white)](https://coskuncankaya24737.github.io/.github/artmoney-cheat-software
+
 
 ## Overview of ArtMoney on Windows
 
